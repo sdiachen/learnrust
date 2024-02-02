@@ -18,5 +18,8 @@
         "titleBar.inactiveBackground": "#8cbc8199",
         "titleBar.inactiveForeground": "#15202b99"
     },
-    "peacock.color": "#8cbc81"
+    "peacock.color": "#8cbc81",
+    "conventionalCommits.scopes": [
+        "guessing_game"
+    ]
 }
