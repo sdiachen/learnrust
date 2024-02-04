@@ -21,6 +21,7 @@
     "peacock.color": "#8cbc81",
     "conventionalCommits.scopes": [
         "guessing_game",
-        "variables"
+        "variables",
+        "branches"
     ]
 }
