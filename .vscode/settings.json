@@ -22,6 +22,7 @@
     "conventionalCommits.scopes": [
         "guessing_game",
         "variables",
-        "branches"
+        "branches",
+        "ownership"
     ]
 }
