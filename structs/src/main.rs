@@ -10,6 +10,9 @@ fn main() {
         email: String::from("anotheruser@mail.com"),
         ..user1
     };
+
+    let black = Color(0,0,0);
+    println!("{}", black.0);
 }
 
 fn build_user(username: String, email: String) -> User {
@@ -27,3 +30,5 @@ struct User {
     email: String,
     sign_in_count: i64,
 }
+
+struct Color(i32,i32,i32);
